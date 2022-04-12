@@ -1,0 +1,26 @@
+.titulo-central{
+    text-align: center;
+    color: deeppink;
+    font-size: 40px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url( nube2.webp);   
+    font-family: 'courier new';
+}
+
+h2{
+    color: purple;
+    font-size: 20px;
+}
+
+p {
+	color: hotpink;
+    font-size: 19px;
+}
+
+a {
+    font-size: 20px;
+}
